@@ -1,0 +1,8 @@
+{
+	"firmware_version": "1.0.0",
+	"crypto_key": "OPRAHZ4OJJK6TIA820W9AT6RVAS2E69S",
+	"crypto_iv": "Q8KUZ8OHUIVLYN5S",
+	"web_socket_ping_interval": 30000,
+	"web_socket_reconnect_interval": 30000,
+	"web_socket_update_data_interval": 60000
+}
